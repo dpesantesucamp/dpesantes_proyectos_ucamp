@@ -19,3 +19,16 @@ body{
     border-radius: 10px;
     box-shadow: rgb(255 255 255) 0px 8px 0px 0px, rgb(0 0 0 / 30%) 0px 0px 8px;
 }
+
+.footer {
+    overflow: hidden;
+    background-color: #000;
+    height: 280px;
+    display: block;
+    color:blue;
+}
+
+.img_social_footer {
+    height: 30px; 
+    padding-top: 5px;
+}
